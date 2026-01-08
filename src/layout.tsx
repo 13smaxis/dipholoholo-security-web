@@ -143,9 +143,9 @@ export default function Layout({ children, currentPageName }: LayoutProps) {
                         <div>
                             <h3 className="font-bold mb-4">Contact Us</h3>
                             <div className="flex flex-col gap-2 text-sm text-slate-400">
-                                <p>Phone: 1-800-SECURE-NOW</p>
-                                <p>Email: info@dipholoholo.com</p>
-                                <p>24/7 Emergency: 1-800-EMERGENCY</p>
+                                <p>Phone: 0860 123 4567</p>
+                                <p>Email: info@dipholoholo.co.za</p>
+                                <p>24/7 Emergency: 0860-EMERGENCY</p>
                             </div>
                         </div>
                     </div>
