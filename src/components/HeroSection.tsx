@@ -9,10 +9,15 @@ export default function HeroSection()
                         min-h-[90vh] 
                         flex items-center
                         "
-                      > {/* Background image layer */}
-      
+                      >                                                                                         {/* Background image layer */}
       <div
-        className="absolute inset-0 -z-20 bg-fixed bg-cover bg-center"
+        className="
+                    absolute 
+                    inset-0 -z-20 
+                    bg-fixed 
+                    bg-cover 
+                    bg-center
+                  "
         style={{
           backgroundImage: `url('${img1}')`,
         }}

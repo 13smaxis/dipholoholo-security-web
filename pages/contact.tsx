@@ -124,7 +124,7 @@ export default function Contact() {
                                     </div>
                                     <div>
                                         <h3 className="font-semibold mb-1">Phone</h3>
-                                        <p className="text-slate-300">1-800-SECURE-NOW</p>
+                                        <p className="text-slate-300">0860 123 4567</p>
                                         <p className="text-slate-300">+1 (555) 123-4567</p>
                                     </div>
                                 </div>
@@ -134,7 +134,7 @@ export default function Contact() {
                                     </div>
                                     <div>
                                         <h3 className="font-semibold mb-1">Email</h3>
-                                        <p className="text-slate-300">info@dipholoholo.com</p>
+                                        <p className="text-slate-300">info@dipholoholo.co.za</p>
                                         <p className="text-slate-300">support@dipholoholo.com</p>
                                     </div>
                                 </div>
@@ -163,7 +163,7 @@ export default function Contact() {
                             </p>
                             <Button size="lg" variant="secondary" className="w-full bg-white text-amber-600 hover:bg-slate-100">
                                 <Phone className="w-5 h-5 mr-2" />
-                                1-800-EMERGENCY
+                                0860-EMERGENCY
                             </Button>
                         </Card>
                     </motion.div>
