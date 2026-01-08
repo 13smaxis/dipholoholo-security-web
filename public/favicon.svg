@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="64" fill="#f97316"/>
+  
+  <!-- Inner rounded square background -->
+  <rect x="24" y="24" width="80" height="80" rx="16" fill="#f97316"/>
+  
+  <!-- DS Text -->
+  <text x="64" y="78" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">DS</text>
+</svg>
